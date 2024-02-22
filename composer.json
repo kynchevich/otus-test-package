@@ -1,5 +1,5 @@
 {
-  "name": "kyn/otus-test-package",
+  "name": "kynchevich/otus-test-package",
   "type": "library",
   "autoload": {
     "psr-4": {

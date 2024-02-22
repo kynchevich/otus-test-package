@@ -7,6 +7,6 @@ class OtusTest
 {
     public function helloWorld()
     {
-        echo "Hellow world this my first package";
+        echo "Hellow world this my first package V1.0.1";
     }
 }
