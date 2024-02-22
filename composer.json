@@ -1,0 +1,10 @@
+{
+  "name": "kyn/otus-test-package",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Kynchevich\\OtusTestPackage\\": "src/"
+    }
+  },
+  "require": {}
+}

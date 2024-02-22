@@ -13,10 +13,10 @@ composer require kynchevich/otus-test-package
 ## Использование
 ```
 <?php
-use \namespaceismissing\OtusTest;
+use \Kynchevich\OtusTestPackage\OtusTest;
 
 $otusTest = new OtusTest();
-echo $otusTest->hellow();
+$otusTest->helloWorld();
 
 ```
 
